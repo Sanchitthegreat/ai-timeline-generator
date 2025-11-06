@@ -1,0 +1,15 @@
+flask==3.0.0
+openai>=1.30.0
+replicate>=0.25.0
+requests==2.31.0
+python-dotenv==1.0.0
+Pillow==10.2.0
+pysrt==1.1.2
+# Local model dependencies (optional - only needed if using local Drawatoon)
+diffusers>=0.30.0
+torch>=2.0.0
+transformers>=4.40.0
+accelerate>=0.30.0
+einops>=0.7.0
+safetensors>=0.4.0
+sentencepiece>=0.1.99
